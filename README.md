@@ -7,7 +7,7 @@ Transform your notes into concise summaries and interactive quizzes using Google
 
 ## 🚀 Live Demo
 
-Try it live: [https://note-summary-quiz-generator-with-gemini.streamlit.app/](https://note-summary-quiz-generator-with-gemini.streamlit.app/) [web:1]
+Try it live: [https://note-summary-quiz-generator-with-gemini.streamlit.app/](https://note-summary-quiz-generator-with-gemini.streamlit.app/)
 
 ## ✨ Features
 
@@ -25,7 +25,7 @@ Try it live: [https://note-summary-quiz-generator-with-gemini.streamlit.app/](ht
 
 ### Installation
 ```bash
-git clone <your-repo-url>
+git clone <[https://github.com/Sukla22/Note-Summary-Quiz-with-Streamlit-Gemini.git]>
 cd note-summary-quiz-generator-with-gemini
 pip install -r requirements.txt
 ```
@@ -44,14 +44,14 @@ streamlit run app.py
 
 ## 📖 Usage
 
-1. **Upload your notes** (PDF, TXT, or paste directly)
-2. **Generate Summary** - Click "Summarize Notes"
+1. **Upload your notes** (images directly)
+2. **Generate Summary** - Click "Generate Note Summarize and Quiz"
 3. **Create Quiz** - Select quiz type and difficulty
 4. **Practice & Learn** - Test yourself with instant feedback
 
 ## 🏗️ Tech Stack
 
-- **Frontend**: Streamlit [web:7]
+- **Frontend**: Streamlit
 - **AI Backend**: Google Gemini API
 - **Deployment**: Streamlit Cloud
 - **Language**: Python
@@ -61,13 +61,13 @@ streamlit run app.py
 
 **Sukla Topoti Saha Prome**  
 Dhaka, Bangladesh  
-[LinkedIn](https://linkedin.com/in/suklaprome) | [Portfolio](https://suklaprome.github.io)
+[LinkedIn](https://linkedin.com/in/sukla-topoti-saha-prome/) 
 
 ## 🙏 Acknowledgments
 
 - [Streamlit Team](https://streamlit.io/) for the amazing framework
 - [Google Gemini](https://ai.google.dev/) for powerful AI capabilities
-- [Phitron] for the guidance
+- [Phitron](https://phitron.io/)for the guidance
 - Open Source Community ❤️
 
 ---
